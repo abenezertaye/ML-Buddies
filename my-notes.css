@@ -202,7 +202,6 @@ footer h1{
 
 .links{
   display:flex;
-  align-items: center;
   gap:1.5rem;
   padding-left:2rem;
   /* margin-block:0; */
