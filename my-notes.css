@@ -13,7 +13,7 @@
   src: url(fonts/outfit/static/Outfit-ExtraBold.ttf);
 }
 :root{
-  --purple:rgba(44, 7, 77, 0.986);
+  --purple:rgb(64, 10, 111);
   --black:#25043a;
   --white:#fff;
 }
